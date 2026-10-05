@@ -1,4 +1,4 @@
-# Hi, I'm David Pitters
+# Hi, I'm David Pitters 👨🏽‍💻
 
 ## I build dependable software for real-world operations
 
